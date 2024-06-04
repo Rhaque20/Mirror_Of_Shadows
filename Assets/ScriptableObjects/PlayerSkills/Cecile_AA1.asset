@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4289186da5b5b1f4fb1d4c31ac17c79e, type: 3}
+  m_Name: Cecile_AA1
+  m_EditorClassIdentifier: 
+  skillName: Cecile NA1
+  hitWeight: 2
+  power: 0.9
+  poiseDamage: 25
+  motionArmor: 0.5
+  affinity: 0
+  anim:
+  - {fileID: 7400000, guid: 4a01ef82bad3cfb4b9394a3a45d05d9c, type: 2}
+  - {fileID: 7400000, guid: 32483fee9c02da14591b5483ca6fe1f6, type: 2}
+  knockbackForce: {x: 100, y: 0}

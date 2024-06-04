@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: BrightStar
+    m_Hash: 108887117
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Helmet
+      m_Hash: 1023863696
+      m_Sprite: {fileID: -1733909965, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1733909965, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    - m_Name: Chestplate
+      m_Hash: 322501777
+      m_Sprite: {fileID: -1788801402, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1788801402, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    - m_Name: Boots
+      m_Hash: 109054728
+      m_Sprite: {fileID: 1442231515, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1442231515, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    - m_Name: Belt
+      m_Hash: 6674415
+      m_Sprite: {fileID: -889165610, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -889165610, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    - m_Name: Ring
+      m_Hash: 804149832
+      m_Sprite: {fileID: -1252269955, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1252269955, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    - m_Name: Necklace
+      m_Hash: 735318851
+      m_Sprite: {fileID: -859852106, guid: e4b13967c21e31043b65d8f39e847620, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -859852106, guid: e4b13967c21e31043b65d8f39e847620,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 6
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638252057026536671
+  m_Version: 1

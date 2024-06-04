@@ -1,0 +1,4 @@
+repository "Mirror_Of_Shadows3D@WubClubGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"

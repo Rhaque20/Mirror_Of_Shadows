@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efee402befc1ab8449954cd0ade58294, type: 3}
+  m_Name: Rare
+  m_EditorClassIdentifier: 
+  circleMeshUpSpeed: 0
+  circleMeshSize: 0
+  glowGroundSize: 12
+  particleRate: 10
+  flareRate: 1
+  circleMeshRate: 0
+  flareSize: {x: 1.5, y: 0.1}
+  rarityColor: {r: 0.040002983, g: 0.27600136, b: 2.5442061, a: 1}

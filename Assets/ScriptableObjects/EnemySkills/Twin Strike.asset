@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bf0e8233b11e941804e068e5e50203, type: 3}
+  m_Name: Twin Strike
+  m_EditorClassIdentifier: 
+  skillName: Twin Strike
+  hitWeight: 2
+  power: 1
+  poiseDamage: 100
+  motionArmor: 0.9
+  affinity: 0
+  anim:
+  - {fileID: 7400000, guid: 73ce7b27d8aec6c48a85b9833b65ae76, type: 2}
+  - {fileID: 7400000, guid: 5e7eba91db66f324c90288fd900150db, type: 2}
+  knockbackForce: {x: 100, y: 0}
+  rangeReq: 5
+  heightReq: 2
+  cooldown: 2
+  curCooldown: 0
+  startCooldown: 2
+  priority: 2
+  actionInterval: 3
+  canRotate: 1

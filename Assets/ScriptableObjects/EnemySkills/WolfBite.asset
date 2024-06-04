@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18bf0e8233b11e941804e068e5e50203, type: 3}
+  m_Name: WolfBite
+  m_EditorClassIdentifier: 
+  skillName: Wolf Bite
+  hitWeight: 2
+  power: 1
+  poiseDamage: 100
+  motionArmor: 0.6
+  affinity: 0
+  anim:
+  - {fileID: 7400000, guid: aef5d837b0734e540949d81819a39966, type: 2}
+  - {fileID: 7400000, guid: 90b81ea4c2d13c542b502c8f8971791b, type: 2}
+  knockbackForce: {x: 100, y: 0}
+  rangeReq: 5
+  heightReq: 2
+  cooldown: 30
+  curCooldown: 0
+  startCooldown: 0
+  priority: 2
+  actionInterval: 1
+  canRotate: 0

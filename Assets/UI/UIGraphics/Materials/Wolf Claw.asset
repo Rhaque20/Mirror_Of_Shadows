@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a2c9167a84618248b2ce1f2047b94bd, type: 3}
+  m_Name: Wolf Claw
+  m_EditorClassIdentifier: 
+  grade: 0
+  icon: {fileID: 21300000, guid: b22481127f21d7c4a9b0b569f4f91010, type: 3}
+  itemName: Wolf Claw
+  description: A sharp claw that rends the flesh of their prey. It's still sharp
+    so caution is advised.
+  category: 0
+  val: 0
+  statVal: 0
+  stackCount: 0
+  maxStack: 0
